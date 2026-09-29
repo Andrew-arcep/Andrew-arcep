@@ -1,16 +1,26 @@
-## Hi there 👋
+```cpp
+struct Estudiante {
+    string nombre   = "Andrew";
+    string carrera  = "Ingeniería en Computación";
+    string donde    = "TEC, Costa Rica";
+    string domina[] = {"Python", "C++"};
+    string rumbo    = "Ciberseguridad";
+    Estudiante* siguiente = nullptr; // todavía decidiendo qué sigue
+};
+```
 
-<!--
-**Andrew-arcep/Andrew-arcep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Computación en el TEC. Programo en Python y C++, y me interesa la ciberseguridad. En mis ratos libres, Helldivers 2.
 
-Here are some ideas to get you started:
+Proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sistema de producción científica · C++  
+Proyecto de Estructuras de Datos: ocho listas enlazadas (simples, dobles y circular) sin STL, con consultas, reportes y cálculo de índice H. En progreso.
+
+Prácticas de Estructuras de Datos · C++  
+Listas, pilas, colas, árboles, grafos, hash y ordenamiento.
+
+Python 
+Ejercicios de Intro a la Programación.
+
+Contacto
+andrewarcep@gmail.com
