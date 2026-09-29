@@ -5,7 +5,7 @@ struct Estudiante {
     string donde    = "TEC, Costa Rica";
     string domina[] = {"Python", "C++"};
     string rumbo    = "Ciberseguridad";
-    Estudiante* siguiente = nullptr; // todavía decidiendo qué sigue
+    Estudiante* siguiente = nullptr;
 };
 ```
 
